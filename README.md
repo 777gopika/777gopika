@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @777gopika
+- 👋 Hi, I’m @gopikag
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate 
